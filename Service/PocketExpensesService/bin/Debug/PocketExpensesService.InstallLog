@@ -1,0 +1,180 @@
+﻿Installing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Installing service PocketExpenses...
+Service PocketExpenses has been successfully installed.
+Creating EventLog source PocketExpenses in log Application...
+Committing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+Removing EventLog source PocketExpenses.
+Service PocketExpenses is being removed from the system...
+Service PocketExpenses was successfully removed from the system.
+Attempt to stop service PocketExpenses.
+Installing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Installing service PocketExpenses...
+Service PocketExpenses has been successfully installed.
+Creating EventLog source PocketExpenses in log Application...
+Committing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+Removing EventLog source PocketExpenses.
+Service PocketExpenses is being removed from the system...
+Service PocketExpenses was successfully removed from the system.
+Attempt to stop service PocketExpenses.
+Installing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Installing service PocketExpenses...
+Service PocketExpenses has been successfully installed.
+Creating EventLog source PocketExpenses in log Application...
+Committing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+Removing EventLog source PocketExpenses.
+Service PocketExpenses is being removed from the system...
+Service PocketExpenses was successfully removed from the system.
+Attempt to stop service PocketExpenses.
+Installing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Installing service PocketExpenses...
+Service PocketExpenses has been successfully installed.
+Creating EventLog source PocketExpenses in log Application...
+Committing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+Removing EventLog source PocketExpenses.
+Service PocketExpenses is being removed from the system...
+Service PocketExpenses was successfully removed from the system.
+Attempt to stop service PocketExpenses.
+Installing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Installing service PocketExpenses...
+Service PocketExpenses has been successfully installed.
+Creating EventLog source PocketExpenses in log Application...
+Committing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+Removing EventLog source PocketExpenses.
+Service PocketExpenses is being removed from the system...
+Service PocketExpenses was successfully removed from the system.
+Installing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Installing service PocketExpenses...
+Service PocketExpenses has been successfully installed.
+Creating EventLog source PocketExpenses in log Application...
+Committing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+Removing EventLog source PocketExpenses.
+Service PocketExpenses is being removed from the system...
+Service PocketExpenses was successfully removed from the system.
+Installing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Installing service PocketExpenses...
+Service PocketExpenses has been successfully installed.
+Creating EventLog source PocketExpenses in log Application...
+Committing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+Removing EventLog source PocketExpenses.
+Service PocketExpenses is being removed from the system...
+Service PocketExpenses was successfully removed from the system.
+Installing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
+Installing service PocketExpenses...
+Service PocketExpenses has been successfully installed.
+Creating EventLog source PocketExpenses in log Application...
+Committing assembly 'D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.InstallLog
+   assemblypath = D:\Пользователь\Desktop\pocketCostService\Service\PocketExpensesService\bin\Debug\PocketExpensesService.exe
+   logtoconsole = 
