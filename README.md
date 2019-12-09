@@ -20,7 +20,7 @@
     
     ``http://localhost:8080/api/expenses`` - will return all expenses
     
-    ``http://localhost:8080/api/expenses?Money=<200.65&DateOfCreate=>08/10/2019`` - will return all expenses, where money less then `200.65` and date after `08/10/2019` 
+    ``http://localhost:8080/api/expenses?Money=<200.65&DateOfCreate=>08/10/2019`` - will return all expenses, where money less than `200.65` and date after `08/10/2019` 
  
  * **URL**
 
